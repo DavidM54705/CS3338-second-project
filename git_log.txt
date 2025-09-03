@@ -1,0 +1,45 @@
+commit 8eab5103bf17e063f29b31c615aa96cdca0d11fa
+Merge: e9a829d 307a36c
+Author: DavidM54705 <davidmartinez54705@gmail.com>
+Date:   Wed Sep 3 15:46:47 2025 -0700
+
+    Resolved a merge conflict between main and index-fix
+
+commit 307a36ccfc7b8bb051a9ce64fa34e89acc137546
+Author: DavidM54705 <davidmartinez54705@gmail.com>
+Date:   Wed Sep 3 15:41:51 2025 -0700
+
+    Added a new div in the index.html that states my favorite game.
+
+commit e9a829da1c1e39dbf690ca3cc2a3639c7b91774c
+Author: DavidM54705 <davidmartinez54705@gmail.com>
+Date:   Wed Sep 3 15:38:29 2025 -0700
+
+    Added a new div in the index.html that states my favorite food.
+
+commit 7b3eb61bd9b8a07c57187ee4a4cc57cf2238024a
+Author: DavidM54705 <davidmartinez54705@gmail.com>
+Date:   Wed Sep 3 15:19:43 2025 -0700
+
+    Added README.md to describe the forked repo
+
+commit 8942aeda2d3ed97d452ea92ac89ac90e9ce8b685
+Merge: 1d2bfc0 079ff15
+Author: DavidM54705 <dmarti251@calstatela.edu>
+Date:   Wed Sep 3 15:13:23 2025 -0700
+
+    Merge pull request #1 from DavidM54705/info-fill
+    
+    Filled in blanks
+
+commit 079ff1519006166569d97e87da6606cf289e3b81
+Author: DavidM54705 <davidmartinez54705@gmail.com>
+Date:   Wed Sep 3 14:53:37 2025 -0700
+
+    Filled in blanks
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
